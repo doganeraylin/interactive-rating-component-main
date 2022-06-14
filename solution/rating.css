@@ -25,6 +25,13 @@
 .numbers {
     display: flex;
     justify-content: center;
+
+}
+
+.numbers button {
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 80%;
 }
 
 .title {
